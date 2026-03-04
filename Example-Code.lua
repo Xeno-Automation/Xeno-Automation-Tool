@@ -22,6 +22,7 @@ getgenv().TargetList = {
 }
 
 getgenv().ToggleKey = Enum.KeyCode.K
+getgenv().KillKey = Enum.KeyCode.L
 getgenv().RandomThinkChance = 25
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Xeno-Automation/Xeno-Automation-Tool/refs/heads/main/main.lua"))()
