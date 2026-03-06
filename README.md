@@ -1,7 +1,7 @@
 # Xeno Automation Tool
 ## An automation tool to allow automating the proccess of clicking, and typing in Roblox.
 
-Documentation is provided in the script and here.
+Documentation is provided below.
 
 Contact imalivebayby on Discord for support.
 
