@@ -1,7 +1,7 @@
 getgenv().TargetList = {
 	[1] = { -- step 1
 		Type = "Click",
-		Path = game:GetService("Players").LocalPlayer.PlayerGui.Clicker.["Bounding Box"],
+		Path = game:GetService("Players").LocalPlayer.PlayerGui.Clicker["Bounding Box"],
 		Target = "TextButton",
 		ClickDelay = 0.01,
 		AfterDelay = 0,
